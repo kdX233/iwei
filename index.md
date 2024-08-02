@@ -1,5 +1,5 @@
 ---
-title :"iWei"
+title: "iWei"
 ---
 
 <center>欢迎<br>这里是iWei-一键三连Official<br>但是目前我们还没有想好要在这里写什么</center>
