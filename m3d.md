@@ -11,6 +11,7 @@ description: "Modern 3Lian Dictionary"
 > 自2024年9月4日起，所有对现袁大的支持已正式停止。
 
 <small>Copyright (C) 2023-2026, 现代三连词典编委会.<br>All right reserved.</small>
+~~每天更1面，争取年底前把前3册收完~~
 
 ---
 
@@ -617,7 +618,7 @@ _EN:_ Debate AGAINST<br>
 **-** 语出《班记·童可芯·值日》，一般在打上课铃时触发。
 
 ### 阴阳姐
-**pron.** 指王春强老师，现任2班物理老师。
+**pron.* 指@王春燕 老师，现任2班物理老师。
 
 ### 古希腊掌管激光的神
 _also:_ 小猪 / 乔治<br>
