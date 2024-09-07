@@ -21,6 +21,20 @@ description: "Modern 3Lian Dictionary"
 <center>Page 2</center>
 * 编者按 Foreword
 
+见字如面。<br>
+这里是某不知名主编，以「吾」自称。<br>
+本词典能编到第4册，属实不易。纵观当初四大名著；《风云韦元》无限期停止更新，“沉郁聪惠”的兴趣降低让韦元城的未来陷入黑暗；《一中军事传记》近手停更，“至一年九月五，已愈百日未更”（《班记·喻文杰·‹一中军事传记›》）。如今似乎仅剩《现代三连词典》还在更新了。与四大名著一样，本词典没有任何收入，作者完全为爱发电。在这种“停更”大环境下坚持，故曰“不易”。同时插一句，向所有为爱发电的人献上崇高敬意。<br>
+诉完苦，开始前言套话吧。<br>
+本词典的编写，集中反映了三班的日活动向，凝聚了三班所有人的青春时光，是对少年少女岁月的精细注脚。<br>
+本词典编写过程中得到了三班各方成员的大力支持，对此表示鸣谢。可以说没有三班便没有本词典的诞生，同时也欢迎各界为本词典提出宝贵建议或是提交新词收录。<br>
+对了，在最后插广告一下：本词典已上线在线索引，可快速定位词条位置：<br>
+<center>https://iwei.kdxiaoyi.top/m3d</center><br>
+联系我们:<br>
+contact@kdxiaoyi.top<br>
+kdxiaoyi@outlook.com<br>
+编委会<br>
+2024年9月<br>
+
 <center>Page 3</center>
 * 缩写 Abbreviations
 * 符号 Symbols
@@ -30,6 +44,11 @@ description: "Modern 3Lian Dictionary"
 
 <center>Page 5</center>
 * M3D™关键词 About M3D™-Words
+
+现代三连词典·季度关键词（M3D™ WORDS），原“现袁大关键词”，是每隔3至4个月评选的一组词。
+这组词经众投获得，是最具代表性的时间热词，可以集中体现三班典论风向。
+被选出的词会被加上“`M3D`”标记
+
 
 <center>Page 6</center>
 * 来信 Form&To
@@ -191,7 +210,7 @@ _also:_ 粉毛<br>
 ### 拔草
 ### 恨不得拿十支笔
 ### 最有秩序最完美
-_EN:_ in a chaos
+_EN:_ in a chaos<br>
 **adj.**/**adv.** 语出《班记·语文·视频·‹雷雨›》。混乱无章的；尤指表面璀璨，实则漏洞百出的。
 ### 迈扣逼·杰克逊
 ### just kōubī
@@ -210,7 +229,7 @@ _EN:_ in a chaos
 ### 我在5:20睡觉，13:14准时起
 ### 关门大吉
 ### 日夜颠倒
-### 来了就做事<sup>儿</sup>
+### 来了就做事<sub>儿</sub>
 ### 除和除以的区别
 ### 寰宇虫灾
 <center>Page 5</center>
@@ -314,7 +333,7 @@ _EN:_ in a chaos
 ### 
 <center>Page 30</center>
 ### 乌尔比安
-### lim<sup>x→e∞</sup> (x)
+### lim<sub>x→+∞</sub> (x)
 **n.** _[数]_ 正无穷。因为“+∞”是一个未定义数，不可以直接参与运算
 ### 要么回你座位上，要么去问老师。
 ### 洛隔
@@ -333,7 +352,11 @@ _EN:_ in a chaos
 
 <center><h2>册1<br><small>334词</small></h2></center>
 <center>Page 1</center>
-### 
+### 一刀切
+**v.** 表示裁断，掐断，通常与“活动课”相连。
+**n.** 可指代这种行为。
+> 原意：比喻在不恰当时机用笼统死板方法解决问题
+
 <center>Page 2</center>
 ### 
 <center>Page 3</center>
