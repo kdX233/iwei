@@ -4,9 +4,6 @@ description: "Modern 3Lian Dictionary"
 ---
 <small><a href="/">课程表</a><br>
 
-<script>console.log('11')</script>
-<iframe src="./classtable"></iframe>
-
 欢迎访问《现代三连词典》电子版本。<br>
 《现代三连词典》是《现代袁氏大词典》的官方续作，原班人马，全新体验。<br>
 **请注意此处列出义项不一定和纸质版完全一致**<br>
@@ -680,3 +677,15 @@ _also:_ 小猪 / 乔治<br>
 ### 
 <center>Page 28</center>
 ### 
+
+<script>
+function setCookie(cname, cvalue, exdays) { var d = new Date(); d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000)); var expires = "expires=" + d.toGMTString(); document.cookie = cname + "=" + cvalue + "; " + expires };
+function getCookie(cname) { var name = cname + "="; var ca = document.cookie.split(';'); for (var i = 0; i < ca.length; i++) { var c = ca[i].trim(); if (c.indexOf(name) == 0) return c.substring(name.length, c.length) }; return null };
+const crypto=(str,seed=0)=>{let h1=0xdeadbeef^seed,h2=0x41c6ce57^seed;for(let i=0,ch;i<str.length;i++){ch=str.charCodeAt(i);h1=Math.imul(h1^ch,2654435761);h2=Math.imul(h2^ch,1597334677)}h1=Math.imul(h1^(h1>>>16),2246822507)^Math.imul(h2^(h2>>>13),3266489909);h2=Math.imul(h2^(h2>>>16),2246822507)^Math.imul(h1^(h1>>>13),3266489909);return 4294967296*(2097151&h2)+(h1>>>0)};
+const key=["m3d-web-",7889319493997866];
+console.log("M3D WEB");
+if ( key.indexOf(crypto(key[0]+getCookie('m3d_auth'))) <= 0 ) {
+  document.getElementById("content").remove();
+  window.location="http://iwei.kdxiaoyi.top/m3d/?ref=f";
+};
+</script>
