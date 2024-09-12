@@ -4,6 +4,9 @@ description: "Modern 3Lian Dictionary"
 ---
 <small><a href="/">课程表</a><br>
 
+<script>console.log('11')</script>
+<iframe src="./classtable"></iframe>
+
 欢迎访问《现代三连词典》电子版本。<br>
 《现代三连词典》是《现代袁氏大词典》的官方续作，原班人马，全新体验。<br>
 **请注意此处列出义项不一定和纸质版完全一致**<br>
