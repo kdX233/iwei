@@ -1,4 +1,5 @@
 const CurrentVersion = 3;
+function openURL(URL,IsInPresentWindow) {if (IsInPresentWindow != undefined) {link_a.target="_self";} else {link_a.target="_blank";};link_a.href=URL;link_a.click();};
 
 var nameHistory = {list: null,buffer: null,resetProcessId: 0,};
 nameHistory["append"] = function(goal) {
