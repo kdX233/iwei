@@ -57,7 +57,7 @@
               <div id="saying" class="selectable">
                 <p><center>This website is powered by <a href="https://github.com/kdxhub/random_name_picker">kdxiaoyi/random_name_picker</a>.
                 <br>Licensed as AGPL-3.0.
-                <br><a href="./">StarRail Theme</a> | <a href="./config-spawn.html">配置文件生成器</a></center></p>
+                <br><a href="javascript:go('p')">StarRail Theme</a> | <a href="./config-spawn.html">配置文件生成器</a></center></p>
               </div>
               </div>
             </s-card>
@@ -74,9 +74,67 @@
           </div>
         </s-scroll-view>
       </div>
+      <s-dialog id="popup">
+        <div slot="text">
+          <img src="https://s41.ax1x.com/2025/12/25/pZJ84Qf.png" alt="">
+          <div popup="sbutton">
+            <p>
+              活动期间，限定干员获取几率提升！
+            </p>
+            <s-button id="closePopupBtn" onclick="go('u')">前往跃迁</s-button>
+          </div>
+        </div>
+      </s-dialog>
     </s-drawer>
   </s-page>
   <script id="listJs" src=""></script>
   <script src="./javascript/simple.js"></script>
+  <script>
+    function go(v) {
+      switch (v) {
+        case "p": 
+          document.getElementById("popup").show();
+          break;
+        case "u":
+          openURL("./", true);
+          break;
+      }
+    };
+  </script>
+  <style>
+    s-dialog::part(container) {
+      width: 80%;
+      height: auto;
+      border-radius: 2px;
+    }
+    s-dialog img {
+      width: 100%;
+      height: auto;
+      border-radius: 2px;
+    }
+    s-dialog div[slot="text"] {
+      margin: 0 0 0 0;
+    }
+    s-dialog div[slot="text"] div[popup="sbutton"] {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      user-select: none;
+    }
+    s-dialog div[slot="text"] div[popup="sbutton"] p {
+      user-select: none;
+      width: fit-content;
+      text-align: center;
+      padding: 0;
+      margin: 0 0 .3em 0;
+    }
+    s-dialog s-button {
+      margin: 0 auto .3em auto;
+      width: 12em;
+      border-radius: 18px;
+    }
+  </style>
 </body>
 </html>
